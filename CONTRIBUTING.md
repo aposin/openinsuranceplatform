@@ -1,19 +1,40 @@
+# Contributing to Projectname
+Thank you for considering a contribution to Open Insurance Platform! 
+We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great. 
+
+This guide explains how to:
+
+* maximize the chance of your changes being accepted
+* work on the open insurance platform's code base
+* get help if you encounter trouble
+
+## Get in touch
+
+Before starting to work on a feature or a fix, please open an issue to discuss the use case or bug with us. This can save both you and us a lot of time.
+For any non-trivial change, we'll ask you to create a short design document explaining:
+
+* Why is this change done? What's the use case?
+* What will the API look like? (For new features)
+* What test cases should it have? What could go wrong?
+* How will it roughly be implemented? (We'll happily provide code pointers to save you time)
+
+This can be done directly inside the GitHub issue.
+
 ## Contributing
 
 [fork]: https://github.com/ORG/REPO/fork
 [pr]: https://github.com/ORG/REPO/compare
 [style]: STYLEGUIDE
+[quality-manifest]: CODING_MANIFEST.md
 [code-of-conduct]: CODE_OF_CONDUCT.md
-
-Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 
 Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
 
-## Reporting a bug or creating a feature request
+### Reporting a bug or creating a feature request
 
 Please create a new issue in github using one of the provided templates, and make sure to attach the provided labels.
 
-## Submitting a pull request (can include source code and/or documentation)
+### Submitting a pull request (can include source code and/or documentation)
 
 0. [Fork][fork] and clone the repository
 0. Create a new branch: `git checkout -b my-branch-name`
@@ -33,7 +54,22 @@ Here are a few things you can do that will increase the likelihood of your pull 
 
 [Not sure on how to contact us about]
 
-## Resources
+### Code Change Guidelines
+
+All code contributions should contain the following:
+
+* Unit Tests for any logic introduced
+* Integration Test coverage of the bug/feature at the level of build execution. 
+
+Your code needs to run on all supported Java versions and operating systems. 
+
+* Normalise file paths in tests. The `org.projectname.util.TextUtil` class has some useful functions for this purpose.
+
+#### Quality Standards
+The contributed code, task, concept or design needs to fit into the general system architecture and must provide the following key principles found in this [quality quide][quality-manifest]
+
+
+## General GitHub resources on how to start with contributions
 
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
