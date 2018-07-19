@@ -6,9 +6,7 @@ This software uses code from the following projects:
  …
 	
 
-Please see LICENSE.txt for the licenses that apply to these dependencies.
-
-
+----------------
 Apache [PRODUCT_NAME]
 Copyright [XXXX-XXXX] The Apache Software Foundation
 
