@@ -54,7 +54,9 @@ Here are a few things you can do that will increase the likelihood of your pull 
 
 [Not sure on how to contact us about]
 
-### Code Change Guidelines
+### Code Change Guidelines and Quality Standards
+
+The contributed code, task, concept or design needs to fit into the general system architecture and must provide the following key principles found in this [quality quide][quality-manifest]
 
 All code contributions should contain the following:
 
@@ -64,9 +66,6 @@ All code contributions should contain the following:
 Your code needs to run on all supported Java versions and operating systems. 
 
 * Normalise file paths in tests. The `org.projectname.util.TextUtil` class has some useful functions for this purpose.
-
-#### Quality Standards
-The contributed code, task, concept or design needs to fit into the general system architecture and must provide the following key principles found in this [quality quide][quality-manifest]
 
 
 ## General GitHub resources on how to start with contributions
