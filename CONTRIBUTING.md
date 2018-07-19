@@ -50,11 +50,8 @@ Here are a few things you can do that will increase the likelihood of your pull 
 - Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, submit them as separate pull requests.
 - Write [good commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 
-## How to contact us
 
-[Not sure on how to contact us about]
-
-### Code Change Guidelines and Quality Standards
+## Code Change Guidelines and Quality Standards
 
 The contributed code, task, concept or design needs to fit into the general system architecture and must provide the following key principles found in this [quality quide][quality-manifest]
 
@@ -66,6 +63,10 @@ All code contributions should contain the following:
 Your code needs to run on all supported Java versions and operating systems. 
 
 * Normalise file paths in tests. The `org.projectname.util.TextUtil` class has some useful functions for this purpose.
+
+## How to contact us
+
+[Not sure on how to contact us about]
 
 
 ## General GitHub resources on how to start with contributions
