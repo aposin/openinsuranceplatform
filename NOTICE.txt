@@ -1,0 +1,21 @@
+Acknowledgements
+----------------
+This software uses code from the following projects:
+ * Ant (http://ant.apache.org/)
+ * AOP Alliance (http://aopalliance.sourceforge.net/)
+ …
+	
+
+----------------
+Apache [PRODUCT_NAME]
+Copyright [XXXX-XXXX] The Apache Software Foundation
+
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+
+
+This software contains code derived from the RSA Data Security
+Inc. MD5 Message-Digest Algorithm, including various
+modifications by Spyglass Inc., Carnegie Mellon University, and
+Bell Communications Research, Inc (Bellcore).
