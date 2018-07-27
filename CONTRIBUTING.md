@@ -37,11 +37,36 @@ For any non-trivial change, we'll ask you to create a short design document expl
 
 This can be done directly inside the GitHub issue and/or if accepted - later in the pull request.
 
-### Reporting a bug or creating a feature request
+### Reporting a bug or feature
 
-Please create a new issue in github using one of the provided templates, and make sure to attach the provided labels.
+Please create a new issue in github using the provided template, and make sure to attach the provided labels.
+Mark the issue as one of the following:
+* Bug Reports
+* Proposal (feature request / improvements / etc.)
 
-### Proposal States
+### Proposals
+To propose a change or new feature, review the Do's and Dont's below and then open an issue using this template.
+
+#### Do's and Dont's
+###### Issues
+* Do open one Issue for one issue.
+* Do open two Issues for two issues.
+* Do not tack on “Oh by the way here’s another problem I noticed” to an unrelated Issue.
+* Do keep facts and opinions separate, ideally facts first and opinions at the end. 
+* Do spend extra time writing a good title. 
+* Do be specific, especially in reproduction steps.
+* Do answer other people’s questions if you know the answer. Responding to questions is not a privilege reserved for just maintainers. 
+* Do not guess if you do not know the answer to someone’s question. 
+
+##### Proposals
+* Do be specific in describing what you want to be added and how it would solve a problem you are facing.
+* Do not open an Issue with just “make X better” or “improve X”.
+* Do open an issue for a feature request with “Make X better by adding Y because Z”.
+* Do not confuse feature size with project fit. Fit is determined first, then implementation. Some fitting features will take a long time to implement because they are large. But no unfit features should be implemented no matter how easy.
+* Do close feature requests you no longer need. If someone else has the same request, they can open a separate issue more focused on their needs.
+
+
+#### Proposal States
 ###### Open
 Open proposals are still under discussion. Please leave your concrete, constructive feedback on this proposal. +1s and other clutter posts which do not add to the discussion will be removed.
 
@@ -67,6 +92,8 @@ Rejected proposals will not be implemented or merged into Open Insurance Platfor
 
 ### Submitting a pull request (can include source code and/or documentation)
 
+The basic steps to creat a pull request are the following:
+
 0. [Fork][fork] and clone the repository
 0. Create a new branch: `git checkout -b my-branch-name`
 0. Make your change and remember to add tests
@@ -81,10 +108,17 @@ Here are a few things you can do that will increase the likelihood of your pull 
 - Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, submit them as separate pull requests.
 - Write [good commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 
+- Do submit one pull request to address one issue.
+- Do submit two pull request to address two issues.
+- Do submit pull requests for typo fixes in documentation or comments. This is the easiest and most welcome way to get your name added to the contributor list.
+- Do not submit a large surprise Pull Request. Discuss the need for it and the merits of your approach first.
+- Do not be surprised or get upset when you ignore the above and your Pull Request gets closed.
+- Do not expect all Pull Requests to lead to being merged.
+- Do not expect others to coach you through your Pull Request.
 
 ## Code Change Guidelines and Quality Standards
 
-The contributed code, task, concept or design needs to fit into the general system architecture and must provide the following key principles found in our [coding_manifest][quality-manifest].
+The contributed code, task, concept or design needs to fit into the general system architecture and must provide the following key principles found in our [coding manifest][quality-manifest].
 
 All code contributions should contain the following:
 
