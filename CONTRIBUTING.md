@@ -1,5 +1,6 @@
 # Contributing to Open Insurance Platform
 Thank you for considering a contribution to Open Insurance Platform! 
+
 We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great. 
 
 This guide explains how to:
@@ -17,6 +18,8 @@ This guide explains how to:
 [style]: STYLEGUIDE
 [quality-manifest]: CODING_MANIFEST.md
 [code-of-conduct]: CODE_OF_CONDUCT.md
+[needed_docs]: .github/PULL_REQUEST_TEMPLATE.md
+
 Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
 
 #### Contribution License Agreement
@@ -37,9 +40,11 @@ For any non-trivial change, we'll ask you to create a short design document expl
 
 This can be done directly inside the GitHub issue and/or if accepted - later in the pull request.
 
+## Issues
+
 ### Reporting a bug or feature
 
-Please create a new issue in github using the provided template, and make sure to attach the provided labels.
+Please create a new issue in github using the provided template, and make sure to attach labels.
 Mark the issue as one of the following:
 * Bug Reports
 * Proposal (feature request / improvements / etc.)
@@ -90,7 +95,21 @@ Once a developer has begun work on a proposal, either from the core s team or a 
 ###### Rejected
 Rejected proposals will not be implemented or merged into Open Insurance Platform. Once a proposal is rejected, the thread will be closed and the conversation is considered completed, pending considerable new information or changes.
 
-### Submitting a pull request (can include source code and/or documentation)
+## Pull Requests
+Pull Requests are the way to go, if you activly want to participate in this project.
+
+A pull request may be one of the following types:  
+- solutions for an open (or new) issue
+- bugfix
+- new Feature implementation  
+- code parts / snippets for a related issue;
+- improvement of code  
+- new documentation / documentation changes
+- anything else relevant to the project
+
+A pull request doesn’t have to represent finished work. It’s usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
+
+### Submitting a pull request
 
 The basic steps to creat a pull request are the following:
 
@@ -99,6 +118,8 @@ The basic steps to creat a pull request are the following:
 0. Make your change and remember to add tests
 0. Build the project locally and run local tests
 0. Push to your fork and [submit a pull request][pr]
+0. Included [needed information or documents][needed_docs], stick to the Pull Request template.
+0. Update the docs (if needed)
 0. Pat your self on the back and wait for your pull request to be reviewed and merged.
 
 Here are a few things you can do that will increase the likelihood of your pull request being accepted:
