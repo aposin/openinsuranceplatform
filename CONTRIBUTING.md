@@ -137,6 +137,20 @@ Here are a few things you can do that will increase the likelihood of your pull 
 - Do not expect all Pull Requests to lead to being merged.
 - Do not expect others to coach you through your Pull Request.
 
+### What happens after your contribution?
+After you submit a contribution, one of the following will happen:
+- Someone requests changes to your contribution.
+It’s common that you’ll be asked to make changes to your contribution, whether that’s feedback on the scope of your idea, or changes to your code. When someone requests changes, be responsive. They’ve taken the time to review your contribution. Opening a PR and walking away is bad form. If you don’t know how to make changes, research the problem, then ask for help if you need it.
+If you don’t have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they’re not expecting a response. Someone else may be happy to take over.
+
+- Your contribution gets accepted.
+You’ve successfully made a contribution to our project!
+
+- Your contribution doesn’t get accepted.
+Your contribution may or may not be accepted in the end. Hopefully you didn’t put too much work into it already. If you’re not sure why it wasn’t accepted, it’s perfectly reasonable to ask the maintainer for feedback and clarification. 
+
+- You don’t get a response.
+
 ## Programming Guideline and Quality Standards
 
 The contributed code, task, concept or design needs to fit into the general system architecture and must provide the following key principles found in our [coding manifest][quality-manifest].
