@@ -1,18 +1,20 @@
 ## Introduction
 We are very happy, you are interested in this project! :metal:   
+
 If you have any questions, please read the relevant docs on this GitHub repositories and our FAQ on the website first, there is a good chance some questions may be answered already.
 
+#### Development Workflow
 In an early project phase we will work in an so called __PUSH__ model, where our lead maintainers will push big snapshots ("big-
 bang-commits"), to this project's repositories.
 
-As we are currently trying to optimize our workflows and keep this project running, this PUSH phase continues until we have cleaned up some technical issues. After that we will switch to the standard Git Pull workflow model.
+As we are currently trying to optimize our workflow and keep this project running, this PUSH phase continues until we have cleaned up some technical issues. After that we will switch to the standard Git Pull workflow model.
 In this target szenario, every commit will be related to issue(s) and/or pull request(s) and thereby much more transparent.
 
-The following chapter mainly describes the target __PULL__ scenario. In the push model of course we will try to accept contributions even though it means bigger manual effort for our maintainers.
+The following chapter mainly describes the target __PULL__ scenario. Even if we are not yet in the PULL scenario, of course we we will try to accept and handle contributions, even though it means higher manual effort for our maintainers.
 
 ## 1. How we work
-### 1.1 Development Worfklow 
-In this project there will be two (2) main branches  
+### 1.1 Branches
+In this project there will be two branches: 
 > **dev**  
 >This is the projects main branch, where all Pull Requests, will be merged into. Of course this branch may be instable.  
 
@@ -20,7 +22,7 @@ In this project there will be two (2) main branches
 >In this branch concret versions will be held. See more under point 2.4 Versioning
 
 ### 1.2	Workflow
-In our projects we prefer a lightly customized GitHub Workflow, to get a more detailed level in the pull request / review process. Basic concept ist build on the following standard [workflow](https://guides.github.com/introduction/flow/)
+In our projects we prefer a lightly customized GitHub Workflow, to get a more detailed level in the pull request / review process. Basic concept ist build on the following standard [workflow](https://guides.github.com/introduction/flow/).
 
 The key aspects of the used workflow are as follows:
 - Each developer pushes to their own repository and pulls from others.
@@ -34,10 +36,10 @@ In order to be able to contribute the one of the association’s projects you mu
 - Start work on a contribution that was already asked for, or that you’ve already discussed, in an issue
 - A pull request may be one of the following types:  
   - idea for a solution (as basis for further exchange)
-  - solutions for an open (or new) issue
+  - solutions for an (open) issue
   - bugfix
-  - new Feature implementation  
-  - code parts / snippets for a related issue;
+  - new feature implementation  
+  - code parts / snippets for a related issues
   - improvement of code  
   - new documentation / documentation changes
   - anything else relevant to the project
@@ -68,7 +70,7 @@ Your contribution may or may not be accepted in the end. Hopefully you didn’t 
 ## 2 Project Standards
 
 ### 2.1 Coding standards / conventions
-Please check out our [coding standards](docs/coding-standards.html)
+Please check out our [coding standards](docs/coding-standards.html).
 
 ### 2.2 General architecture
 architecture (tbd)
@@ -81,11 +83,11 @@ versionign (tdb)
 
 ## 3. Communication and Tools
 ### 3.1	Roles
-This open source project has the following types of people:
+This open source project contains the following types of people:
 
 - Author: The person/s or organization that created the project. The association itself.
 - Owner: The person/s who has administrative ownership over the organization or repository. The association itself.
-- Maintainers: Contributors who are responsible for driving the vision, managing the organizational aspects of the project and handle contributions. (They may also be authors or owners of the project.) Project Engineering Committee will execute this tasks with defined sub roles
+- Maintainers: Contributors who are responsible for driving the vision, managing the organizational aspects of the project and handle contributions. (They may also be authors or owners of the project.) The Project Engineering Committee, described in the Governance Charter will execute this tasks with defined sub roles:
   - Integration Manager
 Is responsible for handling and validating pull requests regarding the contribution guidelines and the overall strategic scope.
   - (Dictator, if any) 
@@ -100,7 +102,7 @@ If you have any questions please contact us directly via GitHub.
 - Issue tracker: Where people discuss issues related to the project.
 For issue tracking and communication at this OSS project the build in GitHub issue section is the center of communication for all bugs, features and discussions.
 - Pull requests: Where people discuss and review changes that are in progress.
-- Discussion forums or mailing lists: Some projects may use these channels for conversational topics (for example, “How do I…“ or “What do you think about…“ instead of bug reports or feature requests). Others use the issue tracker for all conversations. For now there is no specific forum planned.
+- Discussion forums or mailing lists: Some projects may use these channels for conversational topics (for example, “How do I…“ or “What do you think about…“ instead of bug reports or feature requests). Others use the issue tracker for all conversations. For now there is no specific forum set up.
 
 ## 4 Tools
-Actuall no specific third party tools for communication or issue tracking are used.
+Currently there are no specific third party tools for communication or issue tracking in use.
