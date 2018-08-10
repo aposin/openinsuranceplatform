@@ -137,25 +137,23 @@ Here are a few things you can do that will increase the likelihood of your pull 
 - Do not expect all Pull Requests to lead to being merged.
 - Do not expect others to coach you through your Pull Request.
 
-## Code Change Guidelines and Quality Standards
+## Programming Guideline and Quality Standards
 
 The contributed code, task, concept or design needs to fit into the general system architecture and must provide the following key principles found in our [coding manifest][quality-manifest].
 
 All code contributions should contain the following:
 
+(tbd) 
 * Unit Tests for any logic introduced
 * Integration Test coverage of the bug/feature at the level of build execution. 
 
 Your code needs to run on all supported Java versions and operating systems. 
 
-* Normalise file paths in tests. The `org.projectname.util.TextUtil` class has some useful functions for this purpose.
-
 ## How to contact us
 
 The best way to get in touch with us is directly via GitHub. 
 
-Also feel free to write us an email:
-hello@aposin.org or hello@opin.org
+Also feel free to write us an email: hello@openinsuranceplatform.org
 
 ## General GitHub resources on how to start with contributions
 
