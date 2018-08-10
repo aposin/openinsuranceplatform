@@ -50,26 +50,45 @@ Please check out our [contribution guideline](CONTRIBUTING.md) for a detailed de
 
 ### 1.3	Issues / Pull requests mandatory information
 For creating issues or pull requests please use the provided templates. 
-
 Our maintainers will check the formal requirements first. 
 
-### 1.4 What happens after your contribution?
-After you submit a contribution, one of the following will happen:
-- Someone requests changes to your contribution.
-It’s common that you’ll be asked to make changes to your contribution, whether that’s feedback on the scope of your idea, or changes to your code. When someone requests changes, be responsive. They’ve taken the time to review your contribution. Opening a PR and walking away is bad form. If you don’t know how to make changes, research the problem, then ask for help if you need it.
-If you don’t have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they’re not expecting a response. Someone else may be happy to take over.
-
-- Your contribution gets accepted.
-You’ve successfully made a contribution to our project!
-
-- Your contribution doesn’t get accepted.
-Your contribution may or may not be accepted in the end. Hopefully you didn’t put too much work into it already. If you’re not sure why it wasn’t accepted, it’s perfectly reasonable to ask the maintainer for feedback and clarification. 
-
-- You don’t get a response.
+Please check out our [contribution guideline](CONTRIBUTING.md) for a detailed description.
 
 ## 2 Project Standards
 
 ### 2.1 Coding standards / conventions
+The contributed code, task, concept or design needs to fit into the general system architecture and must provide the following key principles:
+
+##### Internationalization
+- Always use english language for names, variables, classes, definitions, packages, comments etc. 
+- outsourcing from text parts into properties (resource files), so that the project can be easily translated
+- no queries against locale specific  
+
+##### Scalability
+- Every new extension must be open and designed so they are easily extended for other usecases. Other requirements must not be influenced in any case. 
+
+##### Multi Tenancy
+- Functional or technical extensions must fit the multi-tenancy concept.
+
+##### Multi-Currency
+- Functional or technical extensions must fit the multi-currency concept.
+
+##### Time Zones
+- Functional or technical extensions must fit the the current time-zone concept.
+
+Creation of new functional and technical artefacts may follow our standardized development process:
+- General approval for project relevance.
+- Conception/Discussion for changes in the data model
+- Creation of a functional design (if needed) with a follow-up approval
+- Creation of a technical design (if needed) with a follow-up approval
+- Implementation of the functionality / feature 
+  - Please stick to our [coding standards](docs/coding-standards.html) and general architecture guidline:
+    -  Implantation in the correct plugins (for modularization), packages or classes. 
+    -  Strictly make use of the correct layers (Business-, Dialog-, UI-,Adapter)
+- Implementation of Unit- and/or Integration Tests
+- Review from one of our maintainers
+  - Always keep in mind, that the code must fulfill performance and security requirements in order to get accepted.
+
 Please check out our [coding standards](docs/coding-standards.html).
 
 ### 2.2 General architecture
