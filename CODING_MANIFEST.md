@@ -1,9 +1,9 @@
-## Introduction
+# Coding Manifest
+### Introduction
 We are very happy, you are interested in this project! :metal:   
 
 If you have any questions, please read the relevant docs on this GitHub repositories and our FAQ on the website first, there is a good chance some questions may be answered already.
 
-#### Development Workflow
 In an early project phase we will work in an so called __PUSH__ model, where our lead maintainers will push big snapshots ("big-
 bang-commits"), to this project's repositories.
 
