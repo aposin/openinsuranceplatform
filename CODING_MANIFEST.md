@@ -8,9 +8,9 @@ In an early project phase we will work in an so called __PUSH__ model, where our
 bang-commits"), to this project's repositories.
 
 As we are currently trying to optimize our workflow and keep this project running, this PUSH phase continues until we have cleaned up some technical issues. After that we will switch to the standard Git Pull workflow model.
-In this target szenario, every commit will be related to issue(s) and/or pull request(s) and thereby much more transparent.
+In this target szenario, every commit will be related to issue(s) and/or pull request(s) and thereby be much more transparent.
 
-The following chapter mainly describes the target __PULL__ scenario. Even if we are not yet in the PULL scenario, of course we we will try to accept and handle contributions, even though it means higher manual effort for our maintainers.
+The following chapter mainly describes the target __PULL__ scenario. Even if we are not yet in the PULL scenario, of course we will try to accept and handle contributions, even though it means higher manual effort for our maintainers.
 
 ## 1. How we work
 ### 1.1 Branches
@@ -22,7 +22,7 @@ In this project there will be two branches:
 >In this branch concret versions will be held. See more under point 2.4 Versioning
 
 ### 1.2	Workflow
-In our projects we prefer a lightly customized GitHub Workflow, to get a more detailed level in the pull request / review process. Basic concept ist build on the following standard [workflow](https://guides.github.com/introduction/flow/).
+In our projects we prefer a lightly customized GitHub Workflow, to get a more detailed level in the pull request / review process. Basic concept is built on the following standard [workflow](https://guides.github.com/introduction/flow/).
 
 The key aspects of the used workflow are as follows:
 - Each developer pushes to their own repository and pulls from others.
@@ -31,7 +31,7 @@ The key aspects of the used workflow are as follows:
 - The pull requests include all of the proposed changes, project and code specific policies and their associated discussion threads.
 - Whenever a pull request is accepted, the change is merged by the maintainer (integration manager and/or dictator) and pushed to their blessed repository.
 
-In order to be able to contribute the one of the association’s projects you must open a pull request. You should usually open a pull request in the following situations:
+In order to be able to contribute to one of the association’s projects you must open a pull request. You should usually open a pull request in the following situations:
 - Submit trivial fixes (for example, a typo, a broken link or an obvious error)
 - Start work on a contribution that was already asked for, or that you’ve already discussed, in an issue
 - A pull request may be one of the following types:  
