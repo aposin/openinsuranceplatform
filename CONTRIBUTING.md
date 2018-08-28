@@ -66,7 +66,7 @@ To propose a change or new feature, review the Do's and Dont's below and then op
 ##### Proposals
 * Do be specific in describing what you want to be added and how it would solve a problem you are facing.
 * Do not open an Issue with just “make X better” or “improve X”.
-* Do open an issue for a feature request with “Make X better by adding Y because Z”.
+* Do open an Issue for a feature request with “Make X better by adding Y because Z”.
 * Do not confuse feature size with project fit. Fit is determined first, then implementation. Some fitting features will take a long time to implement because they are large. But no unfit features should be implemented no matter how easy.
 * Do close feature requests you no longer need. If someone else has the same request, they can open a separate issue more focused on their needs.
 
@@ -90,7 +90,7 @@ If you wish to start working on an accepted proposal, please reply to the thread
 * The core team is committing to implementing a proposal, even if nobody else does. Accepted proposals simply mean that the core  team and the community agree that this proposal should be a part of Open Insurance Platform.
 
 ###### In Progress
-Once a developer has begun work on a proposal, either from the core s team or a community member, the proposal is marked as in progress with the implementors name and (possibly) a link to a development branch to follow along with progress.
+Once a developer has begun work on a proposal, either from the core team or a community member, the proposal is marked as in progress with the implementors name and (possibly) a link to a development branch to follow along with progress.
 
 ###### Rejected
 Rejected proposals will not be implemented or merged into Open Insurance Platform. Once a proposal is rejected, the thread will be closed and the conversation is considered completed, pending considerable new information or changes.
@@ -98,40 +98,40 @@ Rejected proposals will not be implemented or merged into Open Insurance Platfor
 ## Pull Requests
 Pull Requests are the way to go, if you activly want to participate in this project.
 
-A pull request may be one of the following types:  
-- solutions for an open (or new) issue
+A Pull Request may be one of the following types:  
+- solutions for an open (or new) Issue
 - bugfix
-- new Feature implementation  
-- code parts / snippets for a related issue;
+- new feature implementation  
+- code parts / snippets for a related Issue;
 - improvement of code  
 - new documentation / documentation changes
 - anything else relevant to the project
 
-A pull request doesn’t have to represent finished work. It’s usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
+A Pull Request doesn’t have to represent finished work. It’s usually better to open a Pull Request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
 
-### Submitting a pull request
+### Submitting a Pull Request
 
-The basic steps to creat a pull request are the following:
+The basic steps to creat a Pull Request are the following:
 
 0. [Fork][fork] and clone the repository
 0. Create a new branch: `git checkout -b my-branch-name`
 0. Make your change and remember to add tests
 0. Build the project locally and run local tests
-0. Push to your fork and [submit a pull request][pr]
+0. Push to your fork and [submit a Pull Request][pr]
 0. Included [needed information or documents][needed_docs], stick to the Pull Request template.
 0. Update the docs (if needed)
-0. Pat your self on the back and wait for your pull request to be reviewed and merged.
+0. Pat your self on the back and wait for your Pull Request to be reviewed and merged.
 
-Here are a few things you can do that will increase the likelihood of your pull request being accepted:
+Here are a few things you can do that will increase the likelihood of your Pull Request being accepted:
 
 - Follow the styleguide in our [coding manifest][quality-manifest].
 - Write tests.
-- Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, submit them as separate pull requests.
+- Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, submit them as separate Pull Requests.
 - Write [good commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 
-- Do submit one pull request to address one issue.
-- Do submit two pull request to address two issues.
-- Do submit pull requests for typo fixes in documentation or comments. This is the easiest and most welcome way to get your name added to the contributor list.
+- Do submit one Pull Request to address one Issue.
+- Do submit two Pull Request to address two Issues.
+- Do submit Pull Requests for typo fixes in documentation or comments. This is the easiest and most welcome way to get your name added to the contributor list.
 - Do not submit a large surprise Pull Request. Discuss the need for it and the merits of your approach first.
 - Do not be surprised or get upset when you ignore the above and your Pull Request gets closed.
 - Do not expect all Pull Requests to lead to being merged.
@@ -140,8 +140,8 @@ Here are a few things you can do that will increase the likelihood of your pull 
 ### What happens after your contribution?
 After you submit a contribution, one of the following will happen:
 - Someone requests changes to your contribution.
-It’s common that you’ll be asked to make changes to your contribution, whether that’s feedback on the scope of your idea, or changes to your code. When someone requests changes, be responsive. They’ve taken the time to review your contribution. Opening a PR and walking away is bad form. If you don’t know how to make changes, research the problem, then ask for help if you need it.
-If you don’t have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they’re not expecting a response. Someone else may be happy to take over.
+It’s common that you’ll be asked to make changes to your contribution, whether that’s feedback on the scope of your idea, or changes to your code. When someone requests changes, be responsive. They’ve taken the time to review your contribution. Opening a Pull Request and walking away is bad form. If you don’t know how to make changes, research the problem, then ask for help if you need it.
+If you don’t have time to work on the Issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they’re not expecting a response. Someone else may be happy to take over.
 
 - Your contribution gets accepted.
 You’ve successfully made a contribution to our project!
