@@ -40,7 +40,7 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 
 ## Escalation
 
-To report an issue with the project leadership team, please contact Matthias Holzer (@holzerma) or Markus Rothmueller (@MarRothm) via GitHub.
+To report an issue with the project leadership team, please contact Matthias Holzer ([@holzerma](https://github.com/holzerma)) or Markus Rothmueller ([@MarRothm](https://github.com/holzerma)) via GitHub.
 
 ## Attribution
 
