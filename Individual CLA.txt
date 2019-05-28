@@ -1,0 +1,104 @@
+Grant of Rights 
+
+(for contributions by Non-Members)
+
+between
+
+Verein zur Förderung quelloffener Versicherungssoftware und Etablierung offener Schnittstellenstandards in der Versicherungsbranche (Association for the promotion of open-source insurance software and for the establishment of open interface standards in the insurance industry)
+Hietzinger Kai 101-105
+1130 Wien
+AUSTRIA
+
+("Association")
+
+and
+
+[Company/Person]
+[Street]
+[City]
+[Country]
+
+("Contributor")
+
+(each a "Party", together the "Parties").
+1.           Preamble
+1.1.       The Association is a non-profit association established under the laws of Austria and founded for the promotion of open-source insurance software and for the establishment of open interface standards in the insurance industry. The Association will run one or more open source projects now or in the future. [Marketing language to be added].
+1.2.       Contributor wishes to contribute to the project(s).
+2.           Grant of Rights
+The Contributor agrees that all contributions to the project are subject to the following terms. This document needs to be signed and submitted with any contribution:
+2.1.       Scope of Rights granted
+2.1.1.   The Contributor hereby grants to the Association the royalty-free, irrevocable and non-exclusive right to use all contributions by any currently known and any future forms of exploitation without any limitations as to time, scope or territory, and particularly grants the right to reproduce and distribute it, to rent and lend it, to broadcast and communicate it to the public by wire or wireless means, to publicly recite, perform and present it, to make it available and to transfer and sublicense any such rights to the contribution against consideration or royalty-free to any third parties who may use the contribution to the same extent. The Association may further itself or through third parties make adaptations, arrangements and other alterations of the contributions and may exploit such adaptions, arrangements or alterations to the same extent and may also grant third parties rights to the same extent. For the avoidance of doubt, all contributions are provided at no charge and royalty-free.
+2.2.       Distribution under the Apache 2.0 license
+2.2.1.   The Association currently plans to license the open source software, which may contain the Contributor's contribution, on basis of the Apache 2.0 license. The Contributor explicitly acknowledges this fact, consents to the inclusion of its contributions to the open source software and issuance under the Apache 2.0 license, guarantees and warrants that the contribution is eligible to be published under such license.
+2.2.2.   The Association reserves the right to change the applicable license to the open source software including the contribution at any time in its own sole discretion.
+2.3.       Moral rights
+2.3.1.   The Contributor waives its and all its employees' or sub-providers' (and all other third parties who may claim authorship) rights to be named as an author of the contribution to the extent legally permissible. The Contributor shall obtain the written confirmation from its employees, sub-providers or other third parties who may claim authorship and disclose such confirmations without undue delay upon the Association's request. The Association will in its own discretion decide whether and in which way authors will be named or published.
+2.4.       Indemnity
+2.4.1.   The Contributor hereby guarantees and warrants that it is entitled to grant the rights to the contribution according to this License Grant document and that the contribution is free of any third party rights (including intellectual property rights). In the event that any contribution infringes any third party rights (including the rights of the Contributor, its employees or sub-providers or any third party rights), the Contributor shall indemnify and hold the Association and the Association's members harmless, including reasonable attorney fees.
+2.5.       Notice about claims raised
+2.6.       The Contributor shall inform the Association without undue delay about any legal claims raised by third parties as to the alleged infringement of such third party's rights by the contribution. The Contributor shall assist the Association to a reasonable extent in its defense against such third party claims.
+
+
+
+
+2.7.       Warranty
+2.8.       Subject to any express warranties or guarantees under this Grant of Rights, and unless required by applicable law or agreed to in writing, Contributor provides the contribution on an "as is" basis, without warranties of any kind.
+3.           Association's IP Policy
+3.1.       The Association has set in place an IP Policy (Annex ./1) and Requirements for the Quality of Contributions (Annex ./2), which shall be binding to the Contributor. Contributor guarantees and warrants that the Contribution complies with the IP Policy and the Requirements for the Quality of Contributions.
+4.           Acceptance of contributions
+4.1.       The Association may in its sole discretion decide whether to accept contributions by the Contributor and incorporate them in the official version or not. The Contributor has no right that any contribution is accepted.
+5.           Applicable law and Jurisdiction
+5.1.       Applicable law
+5.1.1.   This license grant document shall be governed by Austrian substantive law, under the exclusion of its conflict of law rules and the United Nations Convention on Contracts for the International Sale of Goods.
+5.2.       Jurisdiction
+5.2.1.   Any and all disputes arising between the Association and a Contributor, out of or in connection with this Grant of Rights including disputes relating to its validity, breach, termination or nullity shall be subject to the exclusive jurisdiction of the courts of 1010 Vienna, in case the Contributor has its seat in the European Economic Area. In case Contributor has its seat outside the European Economic Area, all disputes arising between the Association and a Contributor out of or in connection with this Agreement, including disputes relating to its validity, breach, termination or nullity shall be finally settled under the Rules of Arbitration of the International Arbitral Centre of the Austrian Federal Economic Chamber in Vienna (Vienna Rules) by three arbitrators appointed in accordance with the said Rules, one arbitrator nominated by the claimant, one arbitrator nominated by the respondent, and one arbitrator nominated by the two Party-nominated arbitrators. The place of arbitration shall be Vienna, Austria. The language of the arbitral proceedings shall be English.
+6.           Agreement
+6.1.       The Contributor guarantees and warrants, that it has all requisite power and authority to enter into this Grant of Rights. The Contributor particularly guarantees and warrants, that it has the full legal capacity necessary under the law applicable to the Contributor to enter into this Grant of Rights. If the Contributor is acting on behalf of a third person or entity, the Contributor confirms to be duly authorized by such person or entity to do so. The Contributor will indemnify and hold the Association harmless in this respect.
+
+
+ 
+
+Contribution submitted: _________________________________ (please specify)
+
+
+__________________________
+
+date, place
+
+
+__________________________
+
+[Contributor]
+
+
+
+Annex ./1: IP Policy
+Annex ./2: Requirements for the Quality of Contributions
+
+
+
+Annex ./1 – IP Policy
+
+The Association operates under the following IP Policy. To facilitate the project and to promote its objectives, all contributors shall fully comply with this IP Policy.
+1.           Contributions
+1.1.       Contributors may contribute to the project at their own discretion. The Association will in its own discretion review any such contributions, conduct due diligence checks and will then decide whether such contribution shall be used in the further course of the project.
+1.2.       All accepted contributions will be published under the Apache 2.0 license terms. The contributor explicitly acknowledges the rights grant involved by the publication and guarantees and warrants that the contribution is eligible to be published under the Apache 2.0 license.
+2.           Copyrights
+2.1.       Along with the contribution, a contributor shall provide the Association with the license grant document signed by authorized representatives of its organization. Without provision of such document, the Association will not accept nor review any submitted contributions.
+2.2.       Deviations from the license grant document require prior express written permission by the Association. Due to the open source nature of the project, deviations will generally not be accepted.
+2.3.       All publications shall bear the following copyright notice:
+
+"© Association for the promotion of open-source insurance software and for the establishment of open interface standards in the insurance industry, [year]. All rights reserved."
+3.           Other Intellectual Property Rights (Patents, Trademarks)
+3.1.       Other than granted under the license grant document, a contributor shall have no obligation to license any other intellectual property rights to the Association or other members of the Association. However, the contributor shall guarantee and warrant that the contribution does neither infringe its own rights nor rights of a third party and will hold the Association and all other members of the Association harmless in case of claims by such third parties.
+3.2.       The contributors shall inform the Association without undue delay about any legal claims raised by third parties as to alleged intellectual property violations due to usage of the software and about any intellectual property initiatives they are pursuing that could be relevant for the project and the project goals.
+3.3.       The Association may register trademarks for use in the project. If it does so, it will publish guidelines regarding rules and limitations under which contributors will be allowed to use such trademarks.
+
+
+ 
+
+Annex ./2 – Requirements for the Quality of Contributions
+
+
+[see our Contribution Guideleines and the Coding Manifest]
+
