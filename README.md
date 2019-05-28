@@ -1,4 +1,10 @@
-# openinsuranceplatform (software description)
+# Openinsuranceplatform 
+
+## Coming soon
+This project will be launched soon.
+By now you can explore our other projects or read throught the basic docs where you can see how we are working within this project.
+
+## Software description
 
 The software provides a comprehensive core insurance platform delivering the complete scope of business capabilities for the insurance industry across all lines of business and business models (B2C, B2B, B2B2C). The open source project is the starting point for all further insurance platform implementations.
 
