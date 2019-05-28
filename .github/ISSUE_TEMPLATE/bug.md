@@ -1,27 +1,22 @@
-<!--- Provide a general summary of the issue in the Title above -->
+<!--- Provide a general summary of the Issue in the Title above -->
 
-*Remember, an issue is not the place to ask questions. 
-You can use Stack Overflow for that, or you may want to start a discussion on the Meteor forum.
-Before you open an issue, please check if a similar issue already exists or has been closed before.*
+<!--
+*Remember, an issue is not the place to ask questions. Please check out our contribution guidelines. 
+Before you open an Issue, please check if a similar issue already exists or has been closed before.*
 
 *Delete the above section and the instructions in the sections below before submitting*
+-->
 
-## What are you submitting?
-I'm submitting a...  
-[ ] bug report
-[ ] feature request
+## Bug report
 
 ## Expected Behavior - What where you expecting to happen?
 <!--- If you're describing a bug, tell us what should happen -->
-<!--- If you're suggesting a change/improvement, tell us how it should work -->
 
 ## Current Behavior - What happens?
 <!--- If describing a bug, tell us what happens instead of the expected behavior -->
-<!--- If suggesting a change/improvement, explain the difference from current behavior -->
 
 ## Possible Solution
-<!--- Not obligatory, but suggest a fix/reason for the bug, -->
-<!--- or ideas how to implement the addition or change -->
+<!--- Not obligatory, but suggest a fix/reason for the bug -->
 
 ## What are the steps to reproduce this issue? (for bugs)
 <!--- Provide a link to a live example, or an unambiguous set of steps to -->
@@ -43,4 +38,3 @@ I'm submitting a...
 * Operating System and version (desktop or mobile):
 
 ## Notes and further information
-

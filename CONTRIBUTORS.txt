@@ -1,0 +1,16 @@
+# This is the official list of LicenseScout contributors / reviewers
+#
+# This does not necessarily list everyone who has contributed code, since in
+# some cases, their employer may be the contributor. To see the full list
+# of contributors, see the revision history in source control.
+#
+# Names should be added to this file as
+# Organization <webpage>
+# Individual Name <email address or website>
+#
+# Please keep the list sorted alphabetically, companies/organizations first, individuals second.
+ 
+# Organization/Companies
+Association for the promotion of open-source insurance software and for the establishment of open interface standards in the insurance industry <https://aposin.org>
+ 
+# Individuals

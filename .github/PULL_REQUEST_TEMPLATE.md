@@ -1,13 +1,14 @@
 <!--- Provide a general summary of your changes in the Title above -->
 
- *DO keep pull requests small so they can be easily reviewed.*
+<!---  
+*DO keep Pull Requests small so they can be easily reviewed.*
  *DO make sure your contribution fits the openess and scaleability for future extensions*
  *DO make sure unit tests pass.*
  *DO make sure any public APIs are XML documented.*
  *DO make sure not to introduce any compiler warnings.*
  *AVOID making significant changes to the driver's overall architecture.*
-
-*Delete the above section and the instructions in the sections below before submitting.*
+*Delete the above section and the instructions in the sections below before submitting.* 
+--->
 
 ## Type of request
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
@@ -18,7 +19,7 @@
 - [ ] Documentation or documentation changes
 
 ## Related Issue(s)
-<!--- This project only accepts pull requests related to open issues -->
+<!--- This project only accepts Pull Requests related to open Issues -->
 <!--- If suggesting a new feature or change, please discuss it in an issue first -->
 <!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
 <!--- Please link to the issue here: -->
@@ -41,8 +42,6 @@ name / company / position / created at
 #### Platform / target area
 <!--- What platform(s) is effected? -->
 
-#### DB Changes
-#### Technical information
 #### known side-effects
 #### other 
 #### DB Changes (if so: incl. scripts with definitions and testdata)
@@ -64,5 +63,3 @@ name / company / position / created at
 - [ ] I aggree with die CLA.
 - [ ] I have read the CONTRIBUTING docs.
 - [ ] I have added/updated necessary documentation (if appropriate).
-
-
