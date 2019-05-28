@@ -2,6 +2,7 @@
 
 ## Coming soon
 This project will be launched soon.
+
 By now you can explore our other projects or read throught the basic docs where you can see how we are working within this project.
 
 ## Software description
