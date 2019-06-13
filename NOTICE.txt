@@ -1,4 +1,4 @@
-Acknowledgements
+Acknowledgments
 ----------------
 This software uses code from the following projects:
 

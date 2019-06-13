@@ -1,6 +1,3 @@
-
-
-
 # Coding Manifest
 ### Introduction
 We are very happy, you are interested in this project! :metal:   
@@ -56,7 +53,7 @@ Please check out our [contribution guideline](CONTRIBUTING.md) for a detailed de
 
 New contributions should meet the general java code conventions (see <https://google.github.io/styleguide/javaguide.htmll>).
 
-All code contributions must meet the following coding guidlines:
+All code contributions must meet the following coding guidelines:
 
 * Your code must not contain any compile errors or warnings (some warnings reported by Eclipse IDE may be allowed)
 * Your code must not contain any problems reported by SpotBugs
@@ -80,7 +77,7 @@ All code contributions must meet the following coding guidlines:
 * Think about appropriate names for classes, methods and variables
   * Don't use naming shortcuts, e.g. EM for ExecutionManager
   * Don't use only general names (e.g. Manager, Util, etc.)
-  * Name the classes, methods and variables suitable to their responsiblity (e.g. IRunnable implementation checking the version can be called CheckVersionRunnable)
+  * Name the classes, methods and variables suitable to their responsibility (e.g. IRunnable implementation checking the version can be called CheckVersionRunnable)
 
 Your code needs to run on all supported systems. (Java / operating systems). 
 
@@ -126,9 +123,3 @@ Creation of new functional and technical artefacts may follow our standardized d
 - Implementation of Unit- and/or Integration Tests
 - Review from one of our maintainers
   - Always keep in mind, that the code must fulfill performance and security requirements in order to get accepted.
-
-
-
-
-
-

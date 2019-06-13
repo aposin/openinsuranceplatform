@@ -3,7 +3,7 @@
 ## Coming soon
 This project will be launched soon.
 
-By now you can explore our other projects or read throught the basic docs where you can see how we are working within this project.
+By now you can explore our other projects or read through the basic docs where you can see how we are working within this project.
 
 ## Software description
 
@@ -13,7 +13,7 @@ It is an all-class system meaning that all insurance classes (like motor, life, 
 
 By enabling fully automated core insurance processes, it helps organizations to get fit for digital competition.
 
-A system-wide data model creates a solid basement for further extensions. Based on this model it provides comprehensive functionality for party management, contract managementa and claims management as well as cross-cutting functionality for organizational setup, collection & disbursement, commission, product definition, workflow, reinsurance and output Management.
+A system-wide data model creates a solid basement for further extensions. Based on this model it provides comprehensive functionality for party management, contract management and claims management as well as cross-cutting functionality for organizational setup, collection & disbursement, commission, product definition, workflow, reinsurance and output Management.
 
 The software is organization-neutral, so every form of organization can be displayed. The workflow engine enables the setup of different organizational structures (specialization, segmentation) and workflow automation between and within organizational structures. Flexible configuration of business rules facilitate fast implementation and change of business processes as well as organizational setup and integration of contact channels (phone, e-mail, sms, scanned documents, fax, portals, social media).
 
@@ -25,7 +25,7 @@ Power users have access to the full set of functionality within the software at 
 
 The software strives for using existing open source components where appropriate rather than commercial software and enables a lean infrastructure footprint.
 
-Following functionlity is included in the open source project:
+Following functionality is included in the open source project:
 
 - BASE functionality
 - CRM functionality
@@ -63,11 +63,13 @@ The open source project initially contains the following delivery artefacts:
   - Maintenance of reinsurance defining data
   - Tool for data set maintenance for reporting functionality
   - Sales campaigns
-- Test case portfolio for automated testing with JUnit
-- Test case portfolio for automated testing of Java batch services
-- Technical documentation client
-- Technical documentation batch services & data model
-- Database catalogue
+- Test case portfolio for automated testing 
+  - with JUnit
+  - of Java batch services
+- Technical documentation 
+  - for client
+  - batch services & data model
+- Database catalog
 - Functional release notes
 - Technical releases
 - Manual for system setup
