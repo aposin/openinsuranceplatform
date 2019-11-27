@@ -51,7 +51,7 @@ Please check out our [contribution guideline](CONTRIBUTING.md) for a detailed de
 
 ### 2.1 Coding Standards
 
-New contributions should meet the general java code conventions (see <https://google.github.io/styleguide/javaguide.htmll>).
+New contributions should meet the general java code conventions (see <https://google.github.io/styleguide/javaguide.html>).
 
 All code contributions must meet the following coding guidelines:
 
